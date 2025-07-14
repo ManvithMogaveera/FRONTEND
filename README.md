@@ -44,4 +44,11 @@ This template can be used as:
 ---
 
 ## 📂 File Structure
+├── index.html # Login Page
+├── signup.html # Sign-Up Page
+├── style.css # Styling
+├── script.js # JS Logic
+└── README.md # This file
 
+Made by Manvith Mogaveera as a UI demo for NGO projects.
+Feel free to fork or improve the project!
